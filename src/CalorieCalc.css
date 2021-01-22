@@ -1,0 +1,96 @@
+@import url('./assets/css/phone-tmp.css') screen and (max-width: 767px);
+@import url('./assets/css/desktop-tmp.css') screen and (min-width: 768px);
+/* @import url('./assets/css/desktop-tmp.css') only screen and (max-width: 44rem); */
+@import url('./assets/css/quantity-selector.css');
+
+:root {
+  --blue-violet: #6200ee;
+  --black-50: rgba(0, 0, 0, 0.5);
+  --border-style: 1px solid rgb(230, 230, 230);
+}
+
+::placeholder {
+  color: black;
+}
+
+html {
+  font-size: 100%;
+}
+
+body {
+  font-size: 16px;
+  font-size: 1rem;
+  font-family: Roboto;
+  margin: 0;
+}
+
+.add-button {
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+}
+
+article {
+  border-bottom: var(--border-style);
+}
+
+h2 {
+  font-size: 20px;
+  letter-spacing: 0.25px;
+  font-weight: normal;
+}
+
+.caption {
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: 0.4px;
+  text-align: right;
+  color: #00000099;
+}
+
+small {
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: 0.25px;
+  color: #00000099;
+}
+
+.calories-small-font {
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: 0.25px;
+  color: #00000099;
+}
+
+.search-bar-input {
+  border: none;
+  font-size: 1rem;
+}
+
+.search-results__content {
+  background-color: #fafafa;
+}
+
+.padding-bottom-16 {
+  padding-bottom: 16px;
+}
+
+.padding-bottom-20 {
+  padding-bottom: 20px;
+}
+
+.search-results:hover {
+  cursor: pointer;
+}
+
+@media (min-width: 20rem) {
+}
