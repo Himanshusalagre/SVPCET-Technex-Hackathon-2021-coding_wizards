@@ -2,14 +2,20 @@
 
 ## MedWeb
 With the rise of people getting affected with Covid-19 we were looking at data on the level of healthcare people all around India was receiving and one of the things we found that people in rural areas are clueless about the symptoms of the disease and also lack proper medical supervision/care.
+
 Hence, the team coding_wizards came up with the idea of providing the people all over India an web application that will not only connect the those in need with the correct medical care/supervision but also enable them to understand the implications of different diseases in a very intuitive way.
+
 Introducing MedWeb
+
 A one stop location to discuss about different medical milestones, AI Disease prediction system, locate nearby hospitals to get proper medical care, and finally a translator to get the whole web app in the language one is comfortable with and hence dissolve any communication barrier. This solution with shorten the gap between the people around the world in search for good healthcare and pave a path in the journey of recovery.
 
-*You can check the demo of the project by [clicking here]()*
+<!-- *You can check the demo of the project by [clicking here]()* -->
+
+## Video Link:
+https://youtu.be/GrRJ9WOMldo
 
 ## Presentation Link
-
+https://1drv.ms/p/s!AoTW3zxR3ARCdTscKWM5eNJbQZE?e=VrE8z6
 
 ## Screenshots
 Home page
