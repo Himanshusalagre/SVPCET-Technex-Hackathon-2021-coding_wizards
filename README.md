@@ -22,6 +22,13 @@ Home page
 ![Home1](https://user-images.githubusercontent.com/64153988/105539886-5e264a80-5d1b-11eb-88c9-f7ea668c00ca.png)
 Available in multiple languages
 ![Home2](https://user-images.githubusercontent.com/64153988/105539896-62526800-5d1b-11eb-909f-c220f700c584.png)
+
+Diabetes Test
+![Diabetes](https://user-images.githubusercontent.com/64153988/105549991-2de4a900-5d27-11eb-8aea-6a088ae7b2df.png)
+Heart Test
+![Heart](https://user-images.githubusercontent.com/64153988/105550035-30470300-5d27-11eb-8809-3a72d35afe10.png)
+Kidney Test
+![Kidney](https://user-images.githubusercontent.com/64153988/105550100-34732080-5d27-11eb-9c31-69c0cc09165d.png)
 Smart Calorie Calculator
 ![CalorieCalc1](https://user-images.githubusercontent.com/64153988/105539912-68e0df80-5d1b-11eb-9690-156753dbc74c.png)
 ![CalorieCalc2](https://user-images.githubusercontent.com/64153988/105539918-6bdbd000-5d1b-11eb-9caa-7728644b29bd.png)
